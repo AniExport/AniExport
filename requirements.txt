@@ -1,0 +1,3 @@
+# AniExport requires Python 3.9 or higher.
+# This project has ZERO external dependencies and runs entirely on the Python Standard Library.
+# You can run `pip install -r requirements.txt` safely (installs nothing extra).
