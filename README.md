@@ -112,20 +112,6 @@ Once AniExport generates your export files, you can import them into either plat
 
 ---
 
-## 📄 License
-
-This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
-
-- **You are free to:** Share, copy, redistribute, modify, and adapt the code.
-- **Under the conditions that:**
-  - **NonCommercial:** You may NOT sell, monetize, or use this project or derivative works for commercial purposes.
-  - **Attribution:** You must give appropriate credit to the original author (`trism`).
-  - **ShareAlike:** Any modifications or derived works must be distributed under the exact same non-commercial license.
-
-See the [LICENSE](LICENSE) file for the full license text.
-
----
-
 ## ☕ Support
 
 If AniExport saved you time or was helpful to you, consider supporting the project:
